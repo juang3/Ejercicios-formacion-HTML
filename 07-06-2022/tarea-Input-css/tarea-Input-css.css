@@ -1,0 +1,10 @@
+
+#numero3:in-range{
+    border: 3px solid rgb(0, 128, 83);
+}
+
+#numero3:out-of-range{
+    border: 3px solid red;
+    background-color: rgb(155, 30, 144);
+    color: white;
+}
