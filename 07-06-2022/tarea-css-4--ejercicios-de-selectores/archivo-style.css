@@ -1,0 +1,25 @@
+*{
+    color:rgb(7, 248, 115);
+    background-color: azure;
+}
+
+p{
+    color: blue;
+}
+
+#title-1{
+    background-color: blueviolet;
+}
+
+.bg-yellow{
+    border: 1px solid red;
+
+}
+
+[id]{
+    font-size:x-small;
+}
+
+[id=title-1]{
+    width: 150px;
+}
